@@ -1,0 +1,30 @@
+/* CSS files --> projects.html */
+body{
+    background-color: #F4EEED;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #C6A9A3;
+}
+.table-menu td:hover{
+    background-color: #FF8882;
+}
+h1{
+    text-align: center; 
+    font-family: cursive;
+    background-color: #D8AC9C;
+} 
+h4{
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+h5{ 
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+p{
+    text-align: center;     
+}
